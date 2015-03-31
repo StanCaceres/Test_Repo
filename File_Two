@@ -1,4 +1,8 @@
 
 This file tests tracking from sourcetree.
 This is the Conflicting Change.
+<<<<<<< HEAD
 The other line in develop...
+=======
+Add another line...
+>>>>>>> Conflict_Branch
